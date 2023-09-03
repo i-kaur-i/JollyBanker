@@ -1,0 +1,97 @@
+ERROR: Not enough funds to withdraw 20000.0 from Cash Johnny Growth Index Fund
+
+
+Transaction History for Cash Johnny by fund.
+Money Market: $470.0
+ D 10010 542.0
+ W 10010 72.0
+Prime Money Market: $3042.0
+ D 10011 1542.0
+ D 10011 1500.0
+Long-Term Bond: $10442.0
+ D 10012 5442.0
+ D 10012 5000.0
+Short-Term Bond: $14540.0
+ D 10013 7540.0
+ D 10013 7000.0
+Capital Value Fund: $54.0
+ D 10015 54.0
+Growth Equity Fund: $15053.0
+ D 10016 7542.0
+ D 10016 7576.0
+ W 10016 65.0
+Growth Index Fund: $10931.0
+ D 10017 5442.0
+ D 10017 6543.0
+ W 10017 1000.0
+ W 10017 54.0
+ T 10017 54.0 10015
+
+
+Transaction History for Williams Hank by 500 Index Fund
+500 Index Fund: $10000.0
+ D 12534 10000.0
+
+
+Transaction History for Williams Hank by fund.
+Money Market: $10000.0
+ D 12530 10000.0
+Prime Money Market: $10000.0
+ D 12531 10000.0
+Long-Term Bond: $0.0
+ D 12532 10000.0
+ W 12532 15000.0
+Short-Term Bond: $5000.0
+ D 12533 10000.0
+500 Index Fund: $10000.0
+ D 12534 10000.0
+Capital Value Fund: $10000.0
+ D 12535 10000.0
+Growth Equity Fund: $10000.0
+ D 12536 10000.0
+Growth Index Fund: $10000.0
+ D 12537 10000.0
+Value Fund: $10000.0
+ D 12538 10000.0
+Value Stock Index: $10000.0
+ D 12539 10000.0
+ERROR: Destination account 4356 doesn't exists
+ERROR: Account 9876 is already open. Transaction refused.
+
+Processing Done. Final Balances
+
+Cash Johnny Account ID: 1001
+    Money Market: $470.0
+    Prime Money Market: $3042.0
+    Long-Term Bond: $10442.0
+    Short-Term Bond: $14540.0
+    500 Index Fund: $0
+    Capital Value Fund: $54.0
+    Growth Equity Fund: $15053.0
+    Growth Index Fund: $10931.0
+    Value Fund: $0
+    Value Stock Index: $0
+
+Williams Hank Account ID: 1253
+    Money Market: $10000.0
+    Prime Money Market: $10000.0
+    Long-Term Bond: $0.0
+    Short-Term Bond: $5000.0
+    500 Index Fund: $10000.0
+    Capital Value Fund: $10000.0
+    Growth Equity Fund: $10000.0
+    Growth Index Fund: $10000.0
+    Value Fund: $10000.0
+    Value Stock Index: $10000.0
+
+Nelson Willie Account ID: 9876
+    Money Market: $0
+    Prime Money Market: $0
+    Long-Term Bond: $0
+    Short-Term Bond: $0
+    500 Index Fund: $0
+    Capital Value Fund: $0
+    Growth Equity Fund: $0
+    Growth Index Fund: $0
+    Value Fund: $0
+    Value Stock Index: $0
